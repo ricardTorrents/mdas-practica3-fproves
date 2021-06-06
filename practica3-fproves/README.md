@@ -1,6 +1,9 @@
 #Ejercicio 1
 
 ###Ejecucion
-* Selecionar la opcion de gradle de verificaction test:
-  - Menu lateral --> seleccionar Graddle --> practica3-fproves--> Tasks-->verification-->tests
+* Ejecucion del archivo SearchTest :
+  - En el directorio src/test/java/ejercicio1 el archivo SearchTest
+  - Click con el boton derecho y seleccionar la opcion de "Run SearchTest"
+  
+
   

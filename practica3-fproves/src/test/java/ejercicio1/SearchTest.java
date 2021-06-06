@@ -28,7 +28,7 @@ public class SearchTest {
     private static final String SELECT_TO_AIRPORT = "#tab-search > div > div.form-group.form-group--flight-search > vy-airport-selector.form-input.destination > div > input";
     private static final String SELECT_TO_AIRPORT_OPTION = "#popup-list > vy-airports-li > li.liStation > p:nth-child(1)";
     private static final String SELECT_ONLY_ONE = "#searchbar > div > vy-datepicker-popup > vy-datepicker-header > ul > li:nth-child(2) > label";
-    private static final String SELECT_DATE = "#searchbar > div > vy-datepicker-popup > vy-specificdates-datepicker > div > div.ui-datepicker-group.ui-datepicker-group-last > table > tbody > tr:nth-child(1) > td:nth-child(6) > a"; //May 1 2021
+    private static final String SELECT_DATE = "#searchbar > div > vy-datepicker-popup > vy-specificdates-datepicker > div > div.ui-datepicker-group.ui-datepicker-group-last > table > tbody > tr:nth-child(2) > td:nth-child(6) > a";
     private static final String BUTTON = "btnSubmitHomeSearcher";
     private static final String RESULT_HEADER = "#newStv > div.stv-journey > div > div.vy-journey_header > h3";
 

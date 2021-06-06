@@ -1,6 +1,6 @@
 package ejercicio2.domain;
 
-public class Constants {
+public class  Constants {
     private Constants() {
     }
 
